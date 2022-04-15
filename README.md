@@ -3,4 +3,5 @@ Este repositório contém a implementação de algoritmos de visão computaciona
 Tarefas de visão computacional que o repositório comtempla:
 - Detecção de faces;
 - Rastreamento de objetos;
-- Reconhecimento de faces.
+- Reconhecimento de faces;
+- Classificação de imagens com redes neurais simples.
