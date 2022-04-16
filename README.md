@@ -7,4 +7,5 @@ Tarefas de visão computacional que o repositório comtempla:
 - Classificação de imagens com redes neurais simples.
 
 Estudos de caso:
-- Mnist digita dataset utilizando rede neural simples. O modelo alcançou 96% de acurácia.
+- Mnist digit dataset utilizando rede neural simples. O modelo alcançou 96% de acurácia;
+- Mnist fashion dataset utilizadndo uma rede neural simples. O modelo alcançou 89% de acurácia.
