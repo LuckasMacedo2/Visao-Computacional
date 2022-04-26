@@ -7,7 +7,11 @@ Tarefas de visão computacional que o repositório comtempla:
 - Classificação de imagens com redes neurais simples;
 - Classificação de imagens com redes neurais convolucionais;
 - Transferência de aprendizagem;
-- Classificação de emoções.
+- Classificação de emoções;
+- Autoencoders:
+-- Lineares;
+-- Convolucionais;
+-- Convolucionais aplicados em imagens RGB.
 
 Estudos de caso:
 - Mnist digit dataset utilizando rede neural simples. O modelo alcançou 96% de acurácia;
