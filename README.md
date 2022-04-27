@@ -12,7 +12,8 @@ Tarefas de visão computacional que o repositório comtempla:
   - Lineares;
   - Convolucionais;
   - Convolucionais aplicados em imagens RGB.
-- YOLO utilizando o framework darknet.
+- YOLO utilizando o framework darknet;
+- Reconhecimento de caracteres em imagens - Optical Caracter Recognition (OCR).
 
 Estudos de caso:
 - Mnist digit dataset utilizando rede neural simples. O modelo alcançou 96% de acurácia;
