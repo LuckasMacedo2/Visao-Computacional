@@ -13,7 +13,8 @@ Tarefas de visão computacional que o repositório comtempla:
   - Convolucionais;
   - Convolucionais aplicados em imagens RGB.
 - YOLO utilizando o framework darknet;
-- Reconhecimento de caracteres em imagens - Optical Caracter Recognition (OCR).
+- Reconhecimento de caracteres em imagens - Optical Caracter Recognition (OCR);
+- Reconhecimento de gestos e ações utilizando a VGG16 implementada com o framework CaffeNet no OpenCV2.
 
 Estudos de caso:
 - Mnist digit dataset utilizando rede neural simples. O modelo alcançou 96% de acurácia;
