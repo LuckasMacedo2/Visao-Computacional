@@ -16,7 +16,8 @@ Tarefas de visão computacional que o repositório comtempla:
 - Reconhecimento de caracteres em imagens - Optical Caracter Recognition (OCR);
 - Reconhecimento de gestos e ações utilizando a VGG16 implementada com o framework CaffeNet no OpenCV2;
 - Deep Dream utilizando a rede Inception V3;
-- Generative Adversarial Networks (GANs).
+- Generative Adversarial Networks (GANs);
+- Segmentação de imagens utilizando a rede Mask-RCNN.
 
 Estudos de caso:
 - Mnist digit dataset utilizando rede neural simples. O modelo alcançou 96% de acurácia;
