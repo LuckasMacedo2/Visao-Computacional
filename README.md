@@ -18,7 +18,7 @@ Tarefas de visão computacional que o repositório comtempla:
 - Deep Dream utilizando a rede Inception V3;
 - Generative Adversarial Networks (GANs);
 - Segmentação de imagens 
-  - Métodos clássicos: limiarização global, limiarização de Otsu, limiarização adaptativa, segmentação baseada em contornos, operador de Sobel;
+  - Métodos clássicos: limiarização global, limiarização de Otsu, limiarização adaptativa, segmentação baseada em contornos, operador de Sobel, CAnny Edge;
   - Métodos de redes neurias: Mask-RCNN.
 
 Estudos de caso:
