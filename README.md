@@ -19,7 +19,7 @@ Tarefas de visão computacional que o repositório comtempla:
 - Generative Adversarial Networks (GANs);
 - Segmentação de imagens 
   - Métodos clássicos: limiarização global, limiarização de Otsu, limiarização adaptativa, segmentação baseada em contornos, operador de Sobel, Canny Edge, segmentação baseada em regiões, mascaramento de imagens, Watershed, segmentação baseada em cores;
-  - Métodos de redes neurias: Mask-RCNN, k-means, U-Net, PointRend.
+  - Métodos de redes neurias: Mask-RCNN, k-means, U-Net, PointRend, Segmentação utilizando data augmentation, DeepLab.
 
 Estudos de caso:
 - Mnist digit dataset utilizando rede neural simples. O modelo alcançou 96% de acurácia;
